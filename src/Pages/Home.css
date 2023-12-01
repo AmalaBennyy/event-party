@@ -1,12 +1,5 @@
-*{
-    font-family: 'Jost', sans-serif;
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-
-/* .body{
+.body{
     background-image: url('https://assets-global.website-files.com/63768e1144af8e15dab91994/63c126a1dc1eff448bfb6a9f_fog%20machine.webp');
     width: 100%;
     background-size:cover ;
-} */
+}
