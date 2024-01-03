@@ -1,1 +1,1 @@
-export const serverURL = 'https://party-makers.onrender.com'
+export const serverURL = 'http://localhost:5001'

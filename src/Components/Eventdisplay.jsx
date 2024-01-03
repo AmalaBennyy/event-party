@@ -32,7 +32,7 @@ function Eventdisplay({eventdisplay,setDeleteEventStatus,ispresent}) {
           </Card.Title>
           { !ispresent &&
             <div className='d-flex '>
-          <Button className='bg-success text-white rounded me-5' style={{borderColor:'green'}}>Get Ticket</Button>
+          {/* <Button className='bg-success text-white rounded me-5' style={{borderColor:'green'}}>Get Ticket</Button> */}
           
           <Button onClick={()=>removeEvent(eventdisplay?.id)} className='btn btn-danger d-flex' ><i class="fa-solid fa-trash-can"></i></Button>
         
